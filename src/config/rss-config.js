@@ -13,6 +13,16 @@
 // 默认配置
 export const config = {
   sources: [
+     {
+      name: "差评x.pin",
+      url: "https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml",
+      category: "新闻",
+    },
+    {
+      name: "少数派",
+      url: "rsshub://sspai/index",
+      category: "新闻",
+    },
     {
       name: "Hacker News 近期最佳",
       url: "https://hnrss.org/best",
