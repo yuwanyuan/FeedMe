@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "TheAlgorithms/Python",
+      "link": "https://github.com/TheAlgorithms/Python",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/52bc7a9963eb25020c207d932ef72638295047ff6f10841f8677ab0b3643007a/TheAlgorithms/Python\" referrerpolicy=\"no-referrer\"><br>All Algorithms implemented in Python <br><br>Language: Python <br>Stars: 215421 <br>Forks: 49728",
+      "contentSnippet": "All Algorithms implemented in Python \nLanguage: Python \nStars: 215421 \nForks: 49728",
+      "creator": "TheAlgorithms",
+      "summary": "文章标题：TheAlgorithms/Python\n\n摘要：该项目包含用Python语言实现的各类算法，在GitHub上拥有215,421个星标和49,728次分叉，显示了其广泛的应用和影响力。"
+    },
+    {
+      "title": "xerrors/Yuxi-Know",
+      "link": "https://github.com/xerrors/Yuxi-Know",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f16752edfabd1c4514dc6834d6f48ba813eb794b5ba447881ce1d12e52a1d05a/xerrors/Yuxi-Know\" referrerpolicy=\"no-referrer\"><br>结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. <br><br>Language: Python <br>Stars: 3424 <br>Forks: 413",
+      "contentSnippet": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. \nLanguage: Python \nStars: 3424 \nForks: 413",
+      "creator": "xerrors",
+      "summary": "Xerrors/Yuxi-Know是一个集成LightRAG知识库的知识图谱智能体平台，采用LangChain v1、Vue和FastAPI构建。该平台支持DeepAgents、MinerU PDF、Neo4j和MCP，使用Python开发，获得3424星和413次分叉。"
+    },
+    {
+      "title": "agrinman/tunnelto",
+      "link": "https://github.com/agrinman/tunnelto",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/249120770/7ea6d180-b4ba-11ea-96ab-6c3b987aac9d\" referrerpolicy=\"no-referrer\"><br>Expose your local web server to the internet with a public URL. <br><br>Language: Rust <br>Stars: 3381 <br>Forks: 194",
+      "contentSnippet": "Expose your local web server to the internet with a public URL. \nLanguage: Rust \nStars: 3381 \nForks: 194",
+      "creator": "agrinman",
+      "summary": "该工具名为agrinman/tunnelto，使用Rust语言开发，旨在将本地Web服务器通过公共URL暴露到互联网。该项目目前获得3381个星标，194次分叉。"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/38ad3a6399bbf92f7a5ce7f2fe4c7f9df9e63dd8b7670ce6c95221007fc741af/Shubhamsaboo/awesome-llm-apps\" referrerpolicy=\"no-referrer\"><br>Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. <br><br>Language: Python <br>Stars: 84354 <br>Forks: 11996",
+      "contentSnippet": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. \nLanguage: Python \nStars: 84354 \nForks: 11996",
+      "creator": "Shubhamsaboo",
+      "summary": "该标题指向一个名为Shubhamsaboo/awesome-llm-apps的集合，其中包含使用OpenAI、Anthropic、Gemini和开源模型的优秀大型语言模型（LLM）应用程序，涉及AI代理和检索增强生成（RAG）。该集合使用Python编写，拥有84354个星标和11996次分叉。"
+    },
+    {
+      "title": "rendercv/rendercv",
+      "link": "https://github.com/rendercv/rendercv",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/38ad3a6399bbf92f7a5ce7f2fe4c7f9df9e63dd8b7670ce6c95221007fc741af/rendercv/rendercv\" referrerpolicy=\"no-referrer\"><br>CV/resume generator for academics and engineers, YAML to PDF <br><br>Language: Python <br>Stars: 12474 <br>Forks: 824",
+      "contentSnippet": "CV/resume generator for academics and engineers, YAML to PDF \nLanguage: Python \nStars: 12474 \nForks: 824",
+      "creator": "rendercv",
+      "summary": "RenderCV是一款面向学术界和工程师的CV/简历生成器，支持通过YAML文件生成PDF文档。该工具使用Python开发，在GitHub上拥有12474个星标和824个分支。"
+    }
+  ],
+  "lastUpdated": "2025-12-27T15:23:29.544Z"
+}
